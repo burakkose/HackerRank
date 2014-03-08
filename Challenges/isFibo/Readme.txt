@@ -1,0 +1,1 @@
+This problem is 15.00 points but my solution 8.33 . I'dont know where is my mistake . Submissions #6,#7,#8 and #9 have problem.
